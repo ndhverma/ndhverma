@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nidhi Verma
 - 👀 I’m interested in SAR data processing including MiniSAR, MiniRF and DFSAR
 - 🌱 I’m currently learning DFSAR 
-- 💞️ I’m looking to collaborate on DFSAR
+- 💞️ I’m looking to collaborate on DFSAR and Future NISAR data
 - 📫 How to reach me email me nidhiverma.iiita@gmail.com
 
 <!---
