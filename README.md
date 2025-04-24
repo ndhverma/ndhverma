@@ -54,7 +54,7 @@ Unlike a scientist who primarily focuses on analysis and research, a **developer
 
 ---
 
-### 🧠 **Skill Set Required:**
+### 🧠 **Skill Set:**
 
 | Category | Tools & Technologies |
 |----------|----------------------|
@@ -68,7 +68,7 @@ Unlike a scientist who primarily focuses on analysis and research, a **developer
 
 ---
 
-### 🎯 **Impact Areas:**
+### 🎯 **Areas:**
 - Develop platforms for **precision agriculture**, **climate modeling**, **urban planning**
 - Create tools for **real-time disaster monitoring**
 - Build dashboards for **environmental impact assessment**
